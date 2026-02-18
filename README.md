@@ -146,11 +146,8 @@ The complete demonstration of the project is available in the **Video Demo** fol
 
 **Email:** yamanarajesh112@gmail.com  
 
-**LinkedIn:**  
-https://www.linkedin.com/in/connect-rajesh-yamana/
-
-**GitHub:**  
-https://github.com/rajesh-yamana/
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/rajesh-yamana)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/connect-rajesh-yamana/)
 
 ---
 
